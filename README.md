@@ -1,4 +1,5 @@
-# adventOfcode Answers by Day (C#)
+# Advent of Code Answers by Day - C#
+The challenges come from Eric's calendar of coding problems: https://adventofcode.com/2018/about
 
 # Day 1
 ```using System;
