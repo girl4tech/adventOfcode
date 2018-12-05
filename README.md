@@ -1,7 +1,7 @@
 # adventOfcode Answers by Day (C#)
 
 # Day 1
-using System;
+```using System;
 using System.Diagnostics;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,6 +22,6 @@ namespace AdventOfCode
 
         }
     }
-}
+}```
 
 # Day2
