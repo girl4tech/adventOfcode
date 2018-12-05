@@ -12,12 +12,12 @@ namespace AdventOfCode
     {
         static void Main(string[] args)
         {   
-            //copy and paste frequency inputs to the list below
+            //C&P FREQUENCY INPUTS INTO THE LIST BELOW
             List<int> frequencyInputs = new List<int> {+1, +2, +3, +4, -5, -6, -7};
             {
                 int finalFrequency = frequencyInputs.Sum();
                 Debug.WriteLine(finalFrequency);
-                //answer: 538
+                //ANSWER: 538
             }
 
         }
