@@ -1,6 +1,6 @@
 # adventOfcode Answers by Day (C#)
 
-#Day 1
+# Day 1
 using System;
 using System.Diagnostics;
 using System.Collections.Generic;
@@ -24,4 +24,4 @@ namespace AdventOfCode
     }
 }
 
-#Day2
+# Day2
